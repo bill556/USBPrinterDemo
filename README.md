@@ -10,7 +10,7 @@ Demo为USB连接模式下的小票与标签打印机以及钱箱的开箱操作
 > * 按照连接方式一般分为USB打印机、蓝牙打印机、网络打印机等等
 > * 按照纸张大小一般分为带切刀的80厨房打印机和58热敏票据打印机
 
-##参考资料
+参考资料
 
 > * [Android USB 主机模式](http://blog.csdn.net/wizardmly/article/details/8350137)(官网 Android USB Host 文档更好)
 > * [Android USB 设备如何区分是打印机还是U盘](http://blog.csdn.net/rodulf/article/details/51916998)
